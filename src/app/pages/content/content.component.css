@@ -27,3 +27,17 @@
   margin-top: 20px;
   color: rgb(198, 197, 197);
 }
+
+.button{
+  background-color: #50565c;
+  color: #fff;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.div_button{
+  display: flex;
+  padding: 20px;
+}
